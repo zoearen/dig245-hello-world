@@ -5,7 +5,7 @@
 
 Using Atom and Git
 
-- [ ] Fork this repository and clone it inside your class folder.
+- [ ] Fork this repository and clone it to your class folder on your machine.
 - [ ] Inside `critical-web-design/dig245-a1/index.html` add the following.
   - [ ] Your name, year of school, major (or intended major)
   - [ ] Why are you taking this course?
