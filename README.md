@@ -6,7 +6,7 @@
 Using Atom and Git
 
 - [ ] Fork this repository and clone it to your `critical-web-design` folder on your machine.
-- [ ] Inside `index.html` add the following.
+- [ ] Inside `index.html` add:
   - [ ] Your name, year of school, major (or intended major)
   - [ ] Why are you taking this course?
   - [ ] What experience do you have creating content for the web or programming?
