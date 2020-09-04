@@ -26,4 +26,4 @@ Using Atom and Git
 
 ### Resources
 
-- See this list of [HTML & CSS Resources](https://github.com/omundy/critical-web-design/blob/master/README.md#html--css) for tutorials and references to complete this assignment.
+- [HTML & CSS Resources](https://github.com/omundy/critical-web-design/blob/master/README.md#html--css)
