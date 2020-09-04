@@ -26,17 +26,4 @@ Using Atom and Git
 
 ## Resources
 
-Here are some popular tutorials/guides. You should **still look for other ones that you might like better**!
-
-1. Shay Howe's *[Learn to Code HTML & CSS](https://learn.shayhowe.com/)*
-1. Oliver James' *[HTML & CSS Is Hard (But Doesn't Have To Be)](https://www.internetingishard.com/html-and-css/)*
-1. Jessica Hische and Russ Maschmeyer's *[Don't Fear The Internet](http://www.dontfeartheinternet.com/)*
-
-Here are some more reference-like resources. These might be slightly technical, but they're accurate and comprehensive. Learning to read technical reference material is its own (very valuable) skill.
-
-- w3schools [HTML](https://www.w3schools.com/html/) and [CSS](https://www.w3schools.com/css/)
-- MDN's [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- MDN's [CSS: Cascading Stylesheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [HTMLReference.io](https://htmlreference.io/)
-- [CSSReference.io](https://cssreference.io/)
-
+- See this list of [HTML & CSS Resources](https://github.com/omundy/critical-web-design/blob/master/README.md#html--css) for tutorials and references to complete this assignment.
