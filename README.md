@@ -16,4 +16,8 @@ Using Atom and Git
 - [ ] Use HTML tags to make your text readable. Experiment with new HTML tags.
 - [ ] [Publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
 - [ ] Bonus (5%): Add additional content using the following tags for extra points! `<code>`, `<blockquote>`, `<img>`, and two more…
-- [ ] Points: provide info: `5`, follow instructions: `5`, online/accessible: `5`, working (as you intend for it to work) code: `5`
+- [ ] Points: `20`
+  - [ ] `5` info
+  - [ ] `5` follow instructions
+  - [ ] `5` online/accessible
+  - [ ] `5` working (as you intend for it to work) code
