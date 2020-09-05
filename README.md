@@ -14,7 +14,8 @@ Using Atom and Git
   - [ ] Select 3 projects (website or web application) you consider to be interesting for artistic, cultural, or other reasons. List each project with its title, a link to it, and two to three sentences describing the project and why it is remarkable.
 - [ ] Save your work and view/refresh it in the browser to see your changes.
 - [ ] Use HTML tags to make your text readable. Experiment with new HTML tags.
-- [ ] [Publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
+- [ ] Save your work and commit and push changes regularly
+- [ ] When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
 - [ ] Points: `20`
   - [ ] `5` info
   - [ ] `5` follow instructions
@@ -26,4 +27,4 @@ Using Atom and Git
 
 ### Resources
 
-- [HTML & CSS Resources](https://github.com/omundy/critical-web-design/blob/master/README.md#html--css)
+- Course [HTML & CSS Resources](https://github.com/omundy/critical-web-design/blob/master/README.md#html--css)
