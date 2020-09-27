@@ -15,7 +15,7 @@ Using Atom and Git
 - [ ] Save your work and view/refresh it in the browser to see your changes.
 - [ ] Use HTML tags to make your text readable. Experiment with new HTML tags.
 - [ ] Save your work and commit and push changes regularly
-- [ ] When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
+- [ ] When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
 - [ ] Points: `20`
   - [ ] `5` info
   - [ ] `5` follow instructions
