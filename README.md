@@ -42,5 +42,5 @@ Points | Description
 
 ## Resources
 
-- Course [HTML](https://github.com/omundy/dig245-critical-web-design/blob/master/reference-sheets/html.md) and [CSS](https://github.com/omundy/dig245-critical-web-design/blob/master/reference-sheets/css.md) references
+- Course [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md) and [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md) references
 - [The History Behind “Hello World”](https://www.elegantthemes.com/blog/wordpress/the-history-behind-hello-world)
