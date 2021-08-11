@@ -1,12 +1,12 @@
 
 # Hello World!
 
+Getting started with HTML
+
 ![hello-world](assets/img/hello-world.png)
 
 
 ## Instructions
-
-Using Atom and Git
 
 - [ ] Fork this repository and clone it to your `critical-web-design` folder on your machine.
 - [ ] Inside `index.html` add:
@@ -18,7 +18,7 @@ Using Atom and Git
 	- [ ] Select 3 projects (website or web application) you consider to be interesting for artistic, cultural, or other reasons. List each project with its title, a link to it, and 2–3 sentences describing the project and why it is remarkable.
 - [ ] Save your work and view/refresh it in the browser to see your changes.
 - [ ] Use HTML tags to make your text readable. Experiment with new HTML tags.
-- [ ] Save your work and commit and push changes regularly
+- [ ] Save and test your work, and commit and push changes regularly
 - [ ] When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
 
 
