@@ -12,15 +12,15 @@ Getting started with HTML
 
 
 #### Code
-- [ ] Use HTML and CSS to code your project inside `index.html`.
-- [ ] Add the following content, using HTML tags to make your text readable. Experiment with new HTML tags!
+- [ ] Use HTML to code your project inside `index.html`.
+- [ ] Add the following content, using HTML to make your text readable. Experiment!
 - [ ] Your name, year of school, major (or intended major)
 - [ ] Why are you taking this course?
 - [ ] What experience do you have creating content for the web or programming?
 - [ ] What are your goals in this course?
 - [ ] In 100-150 words, summarize the [learn-computing](https://github.com/omundy/learn-computing) activity you did with your group.
 - [ ] Select 3 projects (website or web application) you consider to be interesting for artistic, cultural, or other reasons. List each project with its title, a link to it, and 2–3 sentences describing the project and why it is remarkable.
-- [ ] Add an HTML comment to the page explaining if any part of this assignment was difficult.
+- [ ] Add an HTML comment explaining if any part of this assignment was difficult.
 
 
 #### Publish
@@ -49,5 +49,5 @@ Points | Description
 
 ## Resources
 
-- Course [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md) and [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md) references
+- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/javascript.md)
 - [The History Behind “Hello World”](https://www.elegantthemes.com/blog/wordpress/the-history-behind-hello-world)
