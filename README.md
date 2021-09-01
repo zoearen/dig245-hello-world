@@ -19,7 +19,7 @@ Getting started with HTML
 - [ ] What experience do you have creating content for the web or programming?
 - [ ] What are your goals in this course?
 - [ ] In 100-150 words, summarize the [learn-computing](https://github.com/omundy/learn-computing) activity you did with your group.
-- [ ] Select 3 projects (website or web application) you consider to be interesting for artistic, cultural, or other reasons. List each project with its title, a link to it, and 2–3 sentences describing the project and why it is remarkable.
+- [ ] Select 3 projects (website or web application) you consider to be interesting for artistic, cultural, or other reasons—projects that represent your interests, aspirations, and passions. List each project with its title, a link to it, and 2–3 sentences describing the project and why it is remarkable.
 - [ ] Add an HTML comment explaining if any part of this assignment was difficult.
 
 
@@ -38,7 +38,7 @@ Points | Description
 ---: | ---
 5 | Correct information provided
 5 | Instructions followed
-5 | Project is online, accessible, and linked from Moodle
+5 | Project is online, accessible, and linked from Moodle by the deadline
 5 | Code is working (as intended)
 5% | Bonus! Add more info with these [tags](https://www.w3schools.com/tags/default.asp) for extra points `<pre>`, `<blockquote>`, `<img>`, +2 more…
 20 | Total possible
