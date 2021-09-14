@@ -6,6 +6,31 @@ Getting started with HTML
 ![hello-world](assets/img/hello-world.png)
 
 
+<details>
+<summary>Learning Objectives</summary>
+
+Students who complete this assignment will be able to:
+
+- Describe HTML, elements, tags, and nesting.
+- Explain a concept from the [learn-computing](https://github.com/omundy/learn-computing) module like keyboard shortcuts, filesystems, or the command line.
+- Use Git and Github to fork, clone, update, and publish files in a repository.
+- Use HTML to code a basic web page.
+
+</details>
+
+<details>
+<summary>Preparation</summary>
+
+Complete the following to prepare for this assignment. See [Resources](#resources) for additional information as needed.
+
+- [Codecademy: HTML 1-1 Introduction](https://www.codecademy.com/learn/learn-html) (1-16)
+- [Codecademy: HTML 1-2 Document Standards](https://www.codecademy.com/learn/learn-html) (1-14)
+
+</details>
+
+
+
+
 ## Instructions
 
 - [ ] Fork this repository and clone it to your `critical-web-design` folder on your machine.
