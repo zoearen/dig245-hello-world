@@ -33,25 +33,25 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 ## Instructions
 
-- [ ] Fork this repository and clone it to your `critical-web-design` folder on your machine.
+1. Fork this repository and clone it to your `critical-web-design` folder on your machine.
 
 
 #### Code
-- [ ] Use HTML to code your project inside `index.html`.
-- [ ] Add the following content, using HTML to make your text readable. Experiment!
-- [ ] Your name, year of school, major (or intended major)
-- [ ] Why are you taking this course?
-- [ ] What experience do you have creating content for the web or programming?
-- [ ] What are your goals in this course?
-- [ ] In 100-150 words, summarize the [learn-computing](https://github.com/omundy/learn-computing) activity you did with your group.
-- [ ] Select 3 projects (website or web application) you consider to be interesting for artistic, cultural, or other reasons—projects that represent your interests, aspirations, and passions. List each project with its title, a link to it, and 2–3 sentences describing the project and why it is remarkable.
-- [ ] Add an HTML comment explaining if any part of this assignment was difficult.
+1. Use HTML to code your project inside `index.html`.
+1. Add the following content, using HTML to make your text readable. Experiment!
+1. Your name, year of school, major (or intended major)
+1. Why are you taking this course?
+1. What experience do you have creating content for the web or programming?
+1. What are your goals in this course?
+1. In 100-150 words, summarize the [learn-computing](https://github.com/omundy/learn-computing) activity you did with your group.
+1. Select 3 projects (website or web application) you consider to be interesting for artistic, cultural, or other reasons—projects that represent your interests, aspirations, and passions. List each project with its title, a link to it, and 2–3 sentences describing the project and why it is remarkable.
+1. Add an HTML comment explaining if any part of this assignment was difficult.
 
 
 #### Publish
-- [ ] [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
-- [ ] Commit changes regularly.
-- [ ] When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
+1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
+1. Commit changes regularly.
+1. When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
 
 
 
