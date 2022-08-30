@@ -1,9 +1,13 @@
 
 # Hello World!
 
-Getting started with HTML
-
 ![hello-world](assets/img/hello-world.png)
+
+
+
+## Introduction
+
+
 
 
 <details>
@@ -11,12 +15,15 @@ Getting started with HTML
 
 Students who complete this assignment will be able to:
 
-- Describe HTML, elements, tags, and nesting.
-- Explain a concept from the [learn-computing](https://github.com/omundy/learn-computing) module like keyboard shortcuts, filesystems, or the command line.
+- Compare markup languages and describe the primary function of HTML on the web.
+- Describe the anatomy of a web page, includ elements, tags, attributes, and nesting.
+- Use HTML to create a basic web page.
+- Explain essential computing concepts from the activities in the [learn-computing](https://github.com/omundy/learn-computing) modules.
 - Use Git and Github to fork, clone, update, and publish files in a repository.
-- Use HTML to code a basic web page.
 
 </details>
+
+
 
 <details>
 <summary>Preparation</summary>
@@ -31,24 +38,30 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 
 
-## Instructions
+
+## Assigment
+
+
+### Setup
 
 1. Fork this repository and clone it to your `critical-web-design` folder on your machine.
 
 
-#### Code
-1. Use HTML to code your project inside `index.html`.
-1. Add the following content, using HTML to make your text readable. Experiment!
+### Code
+
+Add the following content inside `index.html`. Use HTML to make your text readable. Experiment!
+
 1. Your name, year of school, major (or intended major)
 1. Why are you taking this course?
 1. What experience do you have creating content for the web or programming?
 1. What are your goals in this course?
-1. In 100-150 words, summarize the [learn-computing](https://github.com/omundy/learn-computing) activity you did with your group.
-1. Select 3 projects (website or web application) you consider to be interesting for artistic, cultural, or other reasons—projects that represent your interests, aspirations, and passions. List each project with its title, a link to it, and 2–3 sentences describing the project and why it is remarkable.
+1. In 100-150 words, summarize each [learn-computing](https://github.com/omundy/learn-computing) activity you did.
+1. Select 3 web-based projects that represent your interests, aspirations, and passions. List each project with its title, a link to it, and 2–3 sentences describing it and why it is remarkable. See the [CWD examples](https://docs.google.com/spreadsheets/d/1mQ0doWT6tGXm2W-hB5zuz3I8mijGhLSkAe_XrcfMdok/edit#gid=0) for inspiration.
 1. Add an HTML comment explaining if any part of this assignment was difficult.
 
 
-#### Publish
+### Publish
+
 1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 1. Commit changes regularly.
 1. When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
@@ -56,7 +69,7 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 
 
-<details>
+<details open>
 <summary>Grading</summary>
 
 Points | Description
@@ -74,5 +87,5 @@ Points | Description
 
 ## Resources
 
-- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/javascript.md)
+- Course references in [omundy/dig245-critical-web-design](https://github.com/omundy/dig245-critical-web-design/tree/main/topics)
 - [The History Behind “Hello World”](https://www.elegantthemes.com/blog/wordpress/the-history-behind-hello-world)
